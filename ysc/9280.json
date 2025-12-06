@@ -1,11 +1,11 @@
 {
-  "spider": "https://gh.z9c0.top/https://raw.githubusercontent.com/su9erher0es/tvbox/refs/heads/main/ysc/spider/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847",
+  "spider": "https://gh.imysh.top/https://raw.githubusercontent.com/su9erher0es/tvbox/refs/heads/main/ysc/spider/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847",
   "sites": [
     {
       "key": "kxys",
       "name": "氪星影视",
       "type": 1,
-      "api": "https://v.z9c0.top/api.php/provide/vod/?ac=list",
+      "api": "https://v.imysh.top/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -45,13 +45,13 @@
     {
       "name": "氪星v4",
       "type": 0,
-      "url": "https://gh.z9c0.top/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
+      "url": "https://gh.imysh.top/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
       "playerType": 2
     },
     {
       "name": "氪星v6",
       "type": 0,
-      "url": "https://gh.z9c0.top/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u",
+      "url": "https://gh.imysh.top/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u",
       "playerType": 2
     }
   ]
